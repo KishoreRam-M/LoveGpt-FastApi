@@ -1,6 +1,11 @@
 fastapi
-uvicorn
+uvicorn[standard]
 crewai
+pydantic
 python-dotenv
 google-genai
-pydantic
+requests
+httpx
+tiktoken
+typing-extensions
+python-multipart
